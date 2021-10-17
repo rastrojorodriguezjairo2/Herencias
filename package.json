@@ -1,0 +1,22 @@
+{
+  "name": "ProyectoHerencias",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.7",
+    "@types/node": "^16.11.0"
+  },
+  "description": ""
+}
